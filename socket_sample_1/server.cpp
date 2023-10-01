@@ -1,6 +1,5 @@
-// Server side C/C++ program to demonstrate Socket programming
+// Server side C/C++ program to demonstrate Socket programming in linux/mac
 // gcc server.cpp -o server
-// gcc client.cpp -o client
 ///////////////////////////
 
 #include <netinet/in.h>

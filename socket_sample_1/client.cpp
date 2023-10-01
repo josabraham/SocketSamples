@@ -1,3 +1,6 @@
+// Client side C/C++ program to demonstrate Socket programming in linux/mac
+// gcc client.cpp -o client
+
 #include <arpa/inet.h>
 #include <stdio.h>
 #include <string.h>
